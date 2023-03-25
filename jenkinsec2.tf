@@ -1,8 +1,8 @@
 # configured aws provider with proper credentials
 provider "aws" {
 #  region     = "ap-south-1"
-#  access_key = "AKIAZRQTIKARALXGANHQ"
-#  secret_key = "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"
+#  access_key = 
+#  secret_key = 
   region  = "ap-south-1"
   profile = "default"
 }
